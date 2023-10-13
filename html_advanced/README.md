@@ -183,4 +183,39 @@
 * Add additions paragraphs below Services, Works, About Us, Testimonials, Contact
 
 ## **Task 13**
+* Copy the contents of 11-styleguide.html into 13-styleguide.html
+    * After the existing section containing Headings, create a new section in main
+        * in this section create a header
+            * Inside the header, create a level 2 heading with text Paragraph
+        * after the header add a level 2 heading with text Heading with a subtitle
+        * after the level 2 heading, add a paragraph with text This is my subtitle
+        * after the last paragraph, add another paragraph with text: Nunc~
 
+
+## **Task 14**
+* Copy the contents of 12-index.html into 14-index.html
+
+* In the very first <header>,
+
+    * before the nav, create a span with the text Techium
+
+
+## **Task 13**
+
+
+## **Task 13**
+
+
+## **Task 13**
+
+
+## **Task 13**
+
+
+## **Task 13**
+
+
+## **Task 13**
+
+
+## **Task 13**
