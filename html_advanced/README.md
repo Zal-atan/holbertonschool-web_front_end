@@ -270,4 +270,43 @@
 
 
 
-## **Task 13**
+## **Task 21**
+* Copy the content of 20-index.html into 21-index.html
+    * in the div in the footer
+        * remove any text you have
+        * create a link to https://www.facebook.com/HolbertonSchool/ with the text Facebook
+        * create a link to https://twitter.com/holbertonschool with the text Twitter
+        * create a link to https://www.instagram.com/holbertonschool/ with the text Instagram
+
+## **Task 22**
+* Copy the content of 21-index.html into 22-index.html
+    * in the Hero section, after the heading
+        * create a link to # with the text Get started
+    * in the About Us section, after the div containing the level 3 headings and paragraphs
+        * create a link to about.html with the text Learn more about us
+    * in the Contact section, after the div containing the paragraph
+        * create a link to contact.html with text Get in touch
+
+## **Task 23**
+
+
+## **Task 24**
+
+
+## **Task 25**
+
+
+## **Task 26**
+
+
+## **Task 27**
+
+
+## **Task 28**
+
+
+## **Task 29**
+
+
+## **Task 30**
+
