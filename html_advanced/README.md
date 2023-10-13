@@ -288,25 +288,87 @@
         * create a link to contact.html with text Get in touch
 
 ## **Task 23**
+* Copy the content of 22-index.html into 23-index.html
 
+    * in the Services section
+        * in each level 3 heading, create a link to # around the text already in the heading
+    * in the Works section
+        * in each level 3 heading, create a link to # around the text already in the heading
+    * in the Latest news section
+        * in each level 3 heading, create a link to # around the text already in the heading
 
 ## **Task 24**
+* Copy the content of 23-index.html into 24-index.html
 
+    * in the nav
+        * create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
+    * in the div in the footer
+        * create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
 
 ## **Task 25**
+* Copy the content of 24-index.html into 25-index.html
 
+    * inside the footer, after the div
+        * create a new div
+        * in the new div create an unordered list with the following links:
+            1. link to # with text Terms of Use
+            2. link to # with text Privacy Policy
+            3. link to # with text Cookie Policy
 
 ## **Task 26**
+* Copy the content of 13-styleguide.html into 26-styleguide.html
 
+* Example of unordered list:
+    * inside main after Paragraph section, add :
+        * a new line and a comment with text Lists
+        * after, create a new section with inside:
+            * create a header with inside a level 2 heading with the text Lists
+            * after the new header, create a div with inside:
+                * a level 3 heading with text Unordered
+                    * under it, add an unordered list with these items: Dolor pulvinar etiam magna etiam., Sagittis adipiscing lorem eleifend., Felis enim feugiat dolore viverra.
+
+* Example of ordered list:
+    * after previous unordered list, in the same div
+        * add a level 3 heading with text Ordered
+                * add an ordered list with these items:
+                    1. Dolor pulvinar etiam magna etiam.
+                    2. Sagittis adipiscing lorem eleifend.
+                    3. Felis enim feugiat dolore viverra.
+
+* Example of definition list:
+    * after previous ordered list, in the same div
+        * add a heading level 3 with text Definition
+        * add a definition list with these items:
+            1. Term: Definition List title, Definition: Definition text.
+            2. Term: Startup, Definition: A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+            3. Term: Water, Definition: A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
 
 ## **Task 27**
+* Copy the content of 25-index.html into 27-index.html
 
+    * in the footer between the two divs:
+        * add a horizontal rule
+        * after the horizontal rule add a paragraph with text © 2020 Techium, made with ♥ by students at Holberton School.
 
 ## **Task 28**
+* Copy the content of 26-styleguide.html into 28-styleguide.html
 
+    * in main after Lists section
+        * add a new line and a comment with the text Horizontal rule
+        * create a new section
+            * create a header and inside it add a level 2 heading with the text Horizontal rule
+            * after the header create a div and put a horizontal rule in it
 
 ## **Task 29**
+* Copy the content of 27-index.html into 29-index.html
 
+    * in the Testimonials section
+        * in the first article
+            * replace the text with a blockquote with text I am completely blown away. Thanks to Techium, we've just launched our 5th website! and cite author Yuri Y.
+    * in the second article
+        * replace the text with a blockquote with text Thank you so much for your help. Techium company is awesome! and cite author Dorrie S.
+    * in the third article
+        * replace the text with a blockquote with text I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.
 
 ## **Task 30**
 
