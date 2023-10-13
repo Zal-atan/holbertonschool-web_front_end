@@ -248,10 +248,26 @@
     * wrap the link with a div
 
 
-## **Task 13**
+## **Task 19**
+* Copy the content of 18-index.html into about.html, latest_news.html and contact.html
+
+    * change the title of about.html to replace Homepage with About
+    * change the title of latest_news.html to replace Homepage with Latest news
+    * change the title of contact.html to replace Homepage with Contact
 
 
-## **Task 13**
+## **Task 20**
+* Copy the content of 18-index.html into 20-index.html
+
+    * in your nav tags
+        * create a link to / with the text Home
+        * create an anchor to services with the text Services
+        * create an anchor to works with the text Works
+        * create an anchor to about with the text About
+        * create an anchor to latest_news with the text Latest news
+        * create an anchor to testimonials with the text Testimonials
+        * create an anchor to contact with the text Contact
+
 
 
 ## **Task 13**
