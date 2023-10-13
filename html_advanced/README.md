@@ -226,10 +226,26 @@
         * create a header tag that wraps the h2 and the first p
         * create a div sibling to the header that wraps the rest of the content
 
-## **Task 13**
+## **Task 17**
+* Copy the content of 16-index.html into 17-index.html
+
+    * before the header add a line break and a comment saying Header to help with scanning your code
+    * before the main add a line break and a comment saying Main to help with scanning your code
+    * before the footer add a line break and a comment saying Footer to help with scanning your code
+    * before the Hero section add a line break and a comment saying Hero section
+    * before the Services section add a line break and a comment saying Services section
+    * before the Works section add a line break and a comment saying Works section
+    * before the About Us section add a line break and a comment saying About Us section
+    * before the Latest news section add a line break and a comment saying Latest news section
+    * before the Testimonials section add a line break and a comment saying Testimonials section
+    * before the Contact section add a line break and a comment saying Contact section
 
 
-## **Task 13**
+## **Task 18**
+* Copy the content of 17-index.html into 18-index.html
+
+    * in the header, wrap the span with a link that redirects to the page at the root of your folder (/)
+    * wrap the link with a div
 
 
 ## **Task 13**
