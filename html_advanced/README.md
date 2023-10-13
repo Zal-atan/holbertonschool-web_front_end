@@ -176,7 +176,11 @@
             * add a level 6 heading with text Heading level 6
 
 ## **Task 12**
-
+* Copy the content of 10-index.html into 12-index.html
+* Add three paragraphs to About me,
+* Add three paragraphs to Latest news
+* Add paragraph to Contact
+* Add additions paragraphs below Services, Works, About Us, Testimonials, Contact
 
 ## **Task 13**
 
