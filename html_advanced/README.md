@@ -371,4 +371,183 @@
         * replace the text with a blockquote with text I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.
 
 ## **Task 30**
+* Copy the content of 28-styleguide.html into 30-styleguide.html
 
+* Example of inline quote:
+    * inside main after Horizontal rule section
+        * add a new line and a comment with text Blockquotes
+        * create a new section
+            * in the section create a header, in the header create a level 2 heading with text Blockquotes
+            * after the header, create a div
+                * in the div add a level 3 heading with the text Inline quote
+                * add an inline quote with the text Stay hungry. Stay foolish.
+
+* Example of blockquote:
+    * after the inline quote div, create another div
+        * in the new div add a level 3 heading with the text Blockquote
+        * add a multiline quote with the text I will be the leader of a company
+
+## **Task 31**
+* Copy the content of 29-index.html into 31-index.html
+
+    * in the footer
+        * right after open footer tag, put the following address: 234 Washington Street (line-break) Urbana, Illinois
+    * in the Latest news section
+        * in the first article, after the last paragraph, add the author name in small print: By Kelly D.
+        * in the second article, after the last paragraph, add the author name in small print: By William A.
+        * in the third article, after the last paragraph, add the author name in small print: By Frances J.
+
+## **Task 32**
+* Copy the content of 30-styleguide.html into 32-styleguide.html
+
+    * inside main after the Blockquotes section
+        * add a new line and a comment with text Typography
+        * create a new section
+            * in the section create a header and inside it add a level 2 heading with the text Typography
+            * after the header create a div, inside the div add this text with the correct HTML tag: 320 Stewart Avenue, Unit 12 (line break) New York City NY 10001, the city, state, and postal code should be on a separate line
+            * create another div, in the new div nest this code block using the pre HTML tag:
+            * create another div, in the new div add this paragraph of text with the correct HTML tag: Curabitur sit 
+
+## **Task 33**
+* Copy the content of 32-styleguide.html into 33-styleguide.html
+
+    * inside main after Typography section
+        * add a new line and a comment with text Table
+        * create a new section
+            * in the section create a header, in the header add a level 2 heading with the text Table
+            * after the header, create a table, reproduce in HTML the visual below
+
+## **Task 34**
+* Copy the content of 33-styleguide.html into 34-styleguide.html
+    * in main tag after Table section
+        * add a new line and a comment with text Details
+        * create a new section
+            * create a header, in the header add a level 2 heading with the text Details
+            * after the header create a div
+                * in the div add a level 3 heading with text Default
+                * add a details element and specify Show/Hide me in the summary
+                * add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+            * create another div
+                * add a level 3 heading with text Open
+                * add a details element that is open by default and specify Always open in the summary
+                * add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+## **Task 35**
+* Copy the content of 31-index.html into 35-index.html
+    * in header
+        * find the span with the name of the website
+        * replace it with the image above
+        * make sure the image is in the same directory as all of your other files and that the file name is logo-black.png
+        * alt: Techium logo
+        * don’t forget to specify width of 160 and height of 40
+    * in footer, after the opening tag and before the address
+        * insert the logo image
+        * alt: Techium logo
+        * don’t forget to specify the width and height (same as in header)
+
+## **Task 36**
+* Copy the content of 35-index.html into 36-index.html
+
+* You can use image generators to get images for this task. For avatar images you can download them on UI Faces. Just make sure you rename your images to match the task requirements.
+
+* Add three images in the Works section:
+    * in the Works section
+        * before the first level 3 heading create a div
+            * add images/pic-work-01.jpg inside the div
+            * alt: empty
+        * before the second level 3 heading create a div
+            * add images/pic-work-02.jpg inside the div
+            * alt: empty
+        * before the third level 3 heading create a div
+            * add images/pic-work-03.jpg inside the div
+            * alt: empty
+
+* Add one image in the About Us section:
+    * in the About Us section before the first level 3 heading inside the div
+        * add the image images/pic-about-us.jpg
+            * alt: empty
+            * width: 460
+            * height: 447
+
+* Add three images in the Latest news section:
+    * in the Latest news section
+        * in the first article, before the first paragraph, create a div
+            * in the div add the image images/pic-blog-01.jpg
+            * alt: empty
+            * width: 305
+            * height: 205
+        * in the second article, before the first paragraph, create a div
+            * in the div add the image images/pic-blog-02.jpg
+            * alt: empty
+            * width: 305
+            * height: 205
+        * in the third article, before the first paragraph, create a div
+            * in the div add the image images/pic-blog-03.jpg
+            * alt: empty
+            * width: 305
+            * height: 205
+
+* Add three images in the Testimonials section:
+    * in the Testimonials section
+        * in the first article before the quote, add the image images/pic-person-01.jpg
+            * alt: Yuri Y. avatar
+            * width: 100px
+            * height: 100px
+        * in the second article before the quote, add the image images/pic-person-02.jpg
+            * alt: Dorrie S. avatar
+            * width: 100px
+            * height: 100px
+        * in the third article before the quote, add the image images/pic-person-03.jpg
+            * alt: Sven H. avatar
+            * width: 100px
+            * height: 100px
+
+## **Task 37**
+* Copy the content of 36-index.html into index.html (the final file!)
+
+    * inside the footer
+
+        * replace the text Facebook with the SVG icon code and add width of 25px and height of 25px to the SVG tag:
+        * replace the text Twitter with the SVG icon code and add width of 25px and height of 25px to the SVG tag:
+        * replace the text Instagram with the SVG icon code and add width of 25px and height of 25px to the SVG tag:
+
+
+
+## **Task 38**
+* Copy the content of 34-styleguide.html into 38-styleguide.html
+
+    * in main after the Details section
+        * add a new line and a comment with text Video
+        * create a section
+            * in the section create a header, in the header add a level 2 heading with the text Video
+            * after the header add the following video: https://intranet-projects-files.s3.amazonaws.com/webstack/BigBuckBunny.mp4
+            * add controls to the video
+            * ensure that the video does a loop
+            * display https://intranet-projects-files.s3.amazonaws.com/webstack/thumbnail.jpg when the video is downloading
+            * provide an alternative text: Sorry, your browser doesn't support HTML5 video
+
+## **Task 39**
+* Copy the content of 38-styleguide.html into 39-styleguide.html
+
+    * in main after Video section
+        * add a new line and a comment with text Audio
+        * create a section
+            * in the section create a header, in the header add a level 2 heading with the text Audio
+            * after the header add the following audio file: https://intranet-projects-files.s3.amazonaws.com/webstack/TroubleChapter8_64kb.mp3
+            * add controls to the audio player
+            * provide an alternative text: Sorry, your browser doesn't support audio element
+
+## **Task 40**
+* Copy the content of 39-styleguide.html into styleguide.html
+
+    * in main after the Audio section
+        * add a new line and a comment with text Iframe
+        * create a section
+            * in the section create a header, in the header add a level 2 heading with the text Iframe
+            * after the header add a div
+                * inside the div, create an iframe
+                    * title: Holberton School
+                    * width: 350px
+                    * height: 200px
+                    * source: https://www.youtube.com/embed/41N6bKO-NVI
+                    * fallback text: Holberton Sally
