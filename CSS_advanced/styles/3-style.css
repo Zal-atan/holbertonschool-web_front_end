@@ -1,0 +1,39 @@
+/*Html behaviors */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Set Root colors -- Standards */
+:root {
+    --color-primary: #d73953;
+    --color-black: #090909;
+    --color-white: #ffffff;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+    --text-color: var(--color-black);
+}
+
+/*Sets Body Color */
+body {
+    color: var(--text-color);
+}
+
+/*Sets anchor elements foreground color */
+a {
+    color: var(--text-color);
+}
+
+/* All elements with class visually-hidden */
+.visually-hidden {
+    display: none;
+}
+
+/* All elements with class card-category */
+.card-category {
+    color: var(--color-primary);
+}
+
+/* All elements with class section-tagline */
+.section-tagline {
+    color: var(--color-primary);
+}
