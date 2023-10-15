@@ -419,12 +419,12 @@ ul.row {
 
 /* Target seudo elements after link inside card-title inside card-work */
 .card-work .card-title a::after {
-    content: "";
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
+    content: "";
 }
 
 /* Target hover of after seudo elements inside card-title inside card-work */
