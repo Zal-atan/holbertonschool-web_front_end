@@ -457,7 +457,7 @@ ul.row {
 /* Targer hover on card-imagen inside card-work */
 .card-work:hover .card-image {
     transform: scale(1.2);
-    transition:  var(--transition-duration) var(--transition-cubic-bezier);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 /*Target hove on card-outer inside card-work */
