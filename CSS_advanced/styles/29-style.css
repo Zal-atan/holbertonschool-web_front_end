@@ -357,7 +357,7 @@ ul.row {
 }
 
 /* Target seudo elements of class nav-link inside nav element */
-nav .nav-link::before {
+.nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
@@ -368,7 +368,7 @@ nav .nav-link::before {
 }
 
 /* Hover on seudo elements of clas nav-link in nav element */
-nav .nav-link:hover::before {
+.nav .nav-link:hover::before {
     background-color: var(--color-primary);
     width: 100%;
 }
