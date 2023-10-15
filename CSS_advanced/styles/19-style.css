@@ -49,7 +49,6 @@ html {
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem;
     --nav-item-link-hover: var(--color-primary);
-    --section-tagline-margin: 0;
 }
 
 /*Sets Body Behaviors */
@@ -138,7 +137,6 @@ a:active {
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
-    margin: var(--section-tagline-margin);
 }
 
 /* Container Class */
@@ -193,4 +191,30 @@ ul.row {
     margin: 0;
     padding: 0;
     list-style: none;
+}
+
+/*All ul tag in class footer */
+ul.footer {
+    text-align: right;
+}
+
+/* Class col-1-3 */
+.col-1-3 {
+    width: 33.33%;
+    float: left;
+    padding: .5rem;
+}
+
+/* Class col-1-2 */
+.col-1-3 {
+    width: 50%;
+    float: left;
+    padding: .5rem;
+}
+
+/* Footer-copyright Class */
+.footer-copyright {
+    margin: none;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
 }
