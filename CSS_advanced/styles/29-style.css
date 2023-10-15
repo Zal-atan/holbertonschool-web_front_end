@@ -364,7 +364,7 @@ ul.row {
     left: 0;
     background-color: var(--color-white);
     width: 0;
-    height: 20%;
+    height: .2rem;
 }
 
 /* Hover on seudo elements of clas nav-link in nav element */
