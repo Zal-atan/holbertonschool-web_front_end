@@ -414,7 +414,7 @@ ul.row {
 .card-work .card-title a {
     display: block;
     text-decoration: none;
-    top: 45%
+    padding-top: 45%
 }
 
 /* Target seudo elements after link inside card-title inside card-work */
