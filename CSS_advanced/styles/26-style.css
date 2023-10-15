@@ -297,3 +297,22 @@ ul.row {
     text-decoration: var(--button-hover-text-decoration);
     background: var(--button-hover-background);
 }
+
+/* Card-Testimonial Selector */
+.card-testimonial {
+    text-align: center;
+}
+
+/* card-avater class inside card-testimonials */
+.card-testimonial .card-avatar {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+}
+
+/* cite tag inside of card-quote class inside of card-testimonials class */
+.card-testimonial .card-quote cite {
+    display: block;
+    padding-top: 1rem;
+    color: var(--color-primary);
+}
