@@ -368,7 +368,7 @@ ul.row {
 }
 
 /* Hover on seudo elements of clas nav-link in nav element */
-.nav .nav-link:hover .nav-link::before {
+.nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
 }
