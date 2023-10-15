@@ -391,8 +391,8 @@ ul.row {
 .card-work .card-inner {
     position: absolute;
     top: -0.1rem;
-    left: .1rem;
-    right: .1rem;
+    left: -0.1rem;
+    right: -0.1rem;
     z-index: 1;
 }
 
@@ -428,6 +428,6 @@ ul.row {
 }
 
 /* Target hover of after seudo elements inside card-title inside card-work */
-.card-work:hover .card-title a::after {
+.card-work:hover .card-title {
     opacity: 1;
 }
